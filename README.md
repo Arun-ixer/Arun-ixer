@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Arun 👋
 
-<!--
-**Arun-ixer/Arun-ixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student passionate about building practical software solutions and exploring emerging technologies.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- Engineering Student
+- Interested in AI, Cloud Computing and Automation
+- Exploring AWS, GitHub Actions and Modern Development Workflows
+- Building real-world projects and learning in public
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- SQL
+- Git & GitHub
+- AWS
+- Linux
+
+## 📌 Current Focus
+
+- Software Engineering
+- Machine Learning
+- Prompt Engineering
+  
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
