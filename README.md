@@ -12,7 +12,6 @@ Software Engineering Student passionate about building practical software soluti
 
 - Python
 - Java
-- SQL
 - Git & GitHub
 - AWS
 - Linux
@@ -22,8 +21,3 @@ Software Engineering Student passionate about building practical software soluti
 - Software Engineering
 - Machine Learning
 - Prompt Engineering
-  
-## 📫 Connect With Me
-
-- LinkedIn
-- GitHub
